@@ -1,0 +1,6 @@
+{
+  "name": "Exam Reporting Portal",
+  "description": "School assessment and exam reporting portal to manage classes, subjects, students, CA scores, mid-term tests, exams, and print student report cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
